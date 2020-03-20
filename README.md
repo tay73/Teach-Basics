@@ -5,7 +5,7 @@ This repository has long been in my mind as worthwhile venture. I have wanted to
 I would guess as this goes along I will be making revisions to this and for now I'm keeping it private until I can work out the kinks of how I want this to grow.  
 
 Ultimate Goals:
-  1) Connect the dots on some mathimatical and computer science topics that I've taken for granted up to this point or have been to mentally taxed to dive deeper into
+  1) Connect the dots on some mathematical topics that I've taken for granted up to this point or have been too mentally taxed to dive deeper into
   2) Present material in an intuitive way.  I think this really is lacking in mathimatics education.
   3) Develop some skills around teaching, developing plans, and github in general.
   
